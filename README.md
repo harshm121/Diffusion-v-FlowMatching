@@ -2,6 +2,8 @@
 
 This repository provides a visual comparison between two generative modeling approaches: Diffusion Models and Flow Matching. The implementation focuses on a simple 2D toy dataset to help understand and visualize the fundamental differences between these methods.
 
+![Diffusion vs Flow Matching Animation](./comparison_animation.gif)
+
 ## Overview
 
 ### Diffusion Models
